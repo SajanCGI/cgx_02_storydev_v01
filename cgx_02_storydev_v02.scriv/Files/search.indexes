@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SearchIndexes Version="1.0">
+    <Documents>
+        <Document ID="21CC9A48-A130-410E-BC14-6779D06DEBB0">
+            <Title>First file</Title>
+            <Text>This is the first file</Text>
+        </Document>
+        <Document ID="9E69B7CC-A4AB-4264-B852-8B2BA1901C74">
+            <Title>Sajan's file</Title>
+            <Text>This is the sajan’s edited file that we need in our project.</Text>
+        </Document>
+        <Document ID="C8FE4D4D-A5C3-4F3A-B70F-6C406DC2E2A1">
+            <Title>Second file</Title>
+            <Text>This is the second file</Text>
+        </Document>
+    </Documents>
+</SearchIndexes>
