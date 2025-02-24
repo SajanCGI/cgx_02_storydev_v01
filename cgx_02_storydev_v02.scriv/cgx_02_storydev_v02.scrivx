@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="C6F9A362-44D6-4BCC-AB21-01BABFA5B426" Creator="SCRWIN-3.1.4.0" Device="WINDOWS-G7FRQGU" Modified="2025-02-24 14:32:56 +0530" ModID="355C76B4-AC83-4D1F-82A8-609FDFD249D9">
+<ScrivenerProject Template="No" Version="2.0" Identifier="C6F9A362-44D6-4BCC-AB21-01BABFA5B426" Creator="SCRWIN-3.1.4.0" Device="rohit-pc" Modified="2025-02-24 16:17:10 +0530" ModID="C5981239-5BD9-4F2E-8493-2FD8B4763428">
     <Binder>
         <BinderItem UUID="2ABC6B29-7B65-41CB-BE9C-A741EEF650CF" Type="DraftFolder" Created="2025-02-24 11:36:40 +0530" Modified="2025-02-24 11:36:40 +0530">
             <Title>Draft</Title>
@@ -52,6 +52,15 @@
                         <TextSelection>56,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
+                <BinderItem UUID="541DFF82-8785-40C5-8CC5-32B237BC3093" Type="Text" Created="2025-02-24 16:14:56 +0530" Modified="2025-02-24 16:15:35 +0530">
+                    <Title>rohit</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>19,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
             </Children>
         </BinderItem>
         <BinderItem UUID="245F7FBE-248F-4A34-B8B9-EF5E803D4931" Type="ResearchFolder" Created="2025-02-24 11:36:40 +0530" Modified="2025-02-24 11:36:40 +0530">
@@ -59,6 +68,35 @@
             <MetaData>
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
+            <CorkboardAndOutliner>
+                <SelectedSubdocumentUUIDs>E49ECB51-A27D-4E99-853C-E82865A34627</SelectedSubdocumentUUIDs>
+                <CorkboardSettings>
+                    <Arrangement>Linear</Arrangement>
+                </CorkboardSettings>
+            </CorkboardAndOutliner>
+            <Children>
+                <BinderItem UUID="E49ECB51-A27D-4E99-853C-E82865A34627" Type="Folder" Created="2025-02-24 16:16:33 +0530" Modified="2025-02-24 16:16:36 +0530">
+                    <Title>test</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="8770F0B9-F948-4B87-9C63-4A75FB5E8439" Type="PDF" Created="2025-02-24 16:16:20 +0530" Modified="2025-02-24 16:16:20 +0530">
+                            <Title>scriptsample</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>pdf</FileExtension>
+                            </MetaData>
+                            <MediaSettings>
+                                <CurrentPDFPage>1</CurrentPDFPage>
+                            </MediaSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+            </Children>
         </BinderItem>
         <BinderItem UUID="44D7049D-2C2E-4700-A1EC-CD8B0B8D80D8" Type="TrashFolder" Created="2025-02-24 11:36:40 +0530" Modified="2025-02-24 11:36:40 +0530">
             <Title>Trash</Title>
@@ -123,11 +161,11 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2025-02-24 11:36:40 +0530" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="No" AllowNegatives="Yes" ResetType="Time" ResetTime="01:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="Yes" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="50" Characters="239" Date="2025-02-24 14:32:56 +0530"/>
+        <PreviousSession Words="54" Characters="258" Date="2025-02-24 16:17:10 +0530"/>
     </ProjectTargets>
     <RecentWritingHistory Date="2025-02-24 00:00:00 +0530">
-        <DraftWordCount>50</DraftWordCount>
-        <DraftCharCount>239</DraftCharCount>
+        <DraftWordCount>54</DraftWordCount>
+        <DraftCharCount>258</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
