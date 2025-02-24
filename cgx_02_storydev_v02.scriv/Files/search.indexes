@@ -9,6 +9,9 @@
             <Title>First file</Title>
             <Text>This is the first file</Text>
         </Document>
+        <Document ID="7AD89E4B-3837-415C-94F5-814B9C53A382">
+            <Text>But this work is much better than what we did last time.</Text>
+        </Document>
         <Document ID="9E69B7CC-A4AB-4264-B852-8B2BA1901C74">
             <Title>Sajan's file</Title>
             <Text>This is the sajan’s edited file that we need in our project.</Text>

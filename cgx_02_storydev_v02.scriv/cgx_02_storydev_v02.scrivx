@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="C6F9A362-44D6-4BCC-AB21-01BABFA5B426" Creator="SCRWIN-3.1.4.0" Device="WINDOWS-G7FRQGU" Modified="2025-02-24 14:28:20 +0530" ModID="D050AE57-9512-4BC6-B44A-AB8635CA5D87">
+<ScrivenerProject Template="No" Version="2.0" Identifier="C6F9A362-44D6-4BCC-AB21-01BABFA5B426" Creator="SCRWIN-3.1.4.0" Device="WINDOWS-G7FRQGU" Modified="2025-02-24 14:32:56 +0530" ModID="355C76B4-AC83-4D1F-82A8-609FDFD249D9">
     <Binder>
         <BinderItem UUID="2ABC6B29-7B65-41CB-BE9C-A741EEF650CF" Type="DraftFolder" Created="2025-02-24 11:36:40 +0530" Modified="2025-02-24 11:36:40 +0530">
             <Title>Draft</Title>
@@ -41,6 +41,15 @@
                     </MetaData>
                     <TextSettings>
                         <TextSelection>78,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="7AD89E4B-3837-415C-94F5-814B9C53A382" Type="Text" Created="2025-02-24 14:32:33 +0530" Modified="2025-02-24 14:32:54 +0530">
+                    <Title>Much better work this time</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>56,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
             </Children>
@@ -114,11 +123,11 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2025-02-24 11:36:40 +0530" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="No" AllowNegatives="Yes" ResetType="Time" ResetTime="01:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="Yes" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="38" Characters="183" Date="2025-02-24 14:28:20 +0530"/>
+        <PreviousSession Words="50" Characters="239" Date="2025-02-24 14:32:56 +0530"/>
     </ProjectTargets>
     <RecentWritingHistory Date="2025-02-24 00:00:00 +0530">
-        <DraftWordCount>38</DraftWordCount>
-        <DraftCharCount>183</DraftCharCount>
+        <DraftWordCount>50</DraftWordCount>
+        <DraftCharCount>239</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
