@@ -11,7 +11,7 @@
             <ItemID>44D7049D-2C2E-4700-A1EC-CD8B0B8D80D8</ItemID>
         </ExpandedItems>
         <Selection>
-            <ItemID>541DFF82-8785-40C5-8CC5-32B237BC3093</ItemID>
+            <ItemID>C7436572-D335-4082-A325-5E77907FFB7F</ItemID>
         </Selection>
         <SearchResultsSort Titles="Ascending" Dates="Ascending">None</SearchResultsSort>
     </Binder>
@@ -65,9 +65,9 @@
                 <CurrentViewMode>Single</CurrentViewMode>
                 <SelectionAffects>Current</SelectionAffects>
                 <Content>
-                    <ItemID>541DFF82-8785-40C5-8CC5-32B237BC3093</ItemID>
+                    <ItemID>C7436572-D335-4082-A325-5E77907FFB7F</ItemID>
                 </Content>
-                <NavigationHistory CurrentIndex="50">
+                <NavigationHistory CurrentIndex="51">
                     <HistoryItem Type="BinderItems" ViewMode="Single">21CC9A48-A130-410E-BC14-6779D06DEBB0</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Single">C8FE4D4D-A5C3-4F3A-B70F-6C406DC2E2A1</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Single">21CC9A48-A130-410E-BC14-6779D06DEBB0</HistoryItem>
@@ -119,6 +119,7 @@
                     <HistoryItem Type="BinderItems" ViewMode="Corkboard">E49ECB51-A27D-4E99-853C-E82865A34627</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Single">D794318E-9D38-4F5A-82D8-8F639ABCA557</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Single">541DFF82-8785-40C5-8CC5-32B237BC3093</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">C7436572-D335-4082-A325-5E77907FFB7F</HistoryItem>
                 </NavigationHistory>
             </View>
             <Text>
@@ -126,7 +127,7 @@
                 <PageLayout Facing="No">No</PageLayout>
                 <TypewriterScrolling>No</TypewriterScrolling>
                 <LineNumbers Interval="1">No</LineNumbers>
-                <Selection>57,0</Selection>
+                <Selection>62,0</Selection>
             </Text>
             <Outliner>
                 <Columns>
