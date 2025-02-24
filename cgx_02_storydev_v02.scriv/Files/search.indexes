@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SearchIndexes Version="1.0">
     <Documents>
+        <Document ID="162B7C75-CE7C-4787-80A8-E73484D2B606">
+            <Title>Another work that I did</Title>
+            <Text>Another file that I created that we need to merge back in to the main project.</Text>
+        </Document>
         <Document ID="21CC9A48-A130-410E-BC14-6779D06DEBB0">
             <Title>First file</Title>
             <Text>This is the first file</Text>
